@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace SOVA.Tests
 {
-    [TestClass]
+   // [TestClass]
     public class ContactsTests
     {
-        [TestMethod]
+       // [TestMethod]
         public void TestName()
         {
 
